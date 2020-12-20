@@ -2,6 +2,8 @@
 
 *A cheat sheet for Processing Python Mode / Processing.py*
 
+Designed with [Scribus](https://www.scribus.net/) and [Inkscape](https://inkscape.org/). Fonts: [Enriqueta](https://fonts.google.com/specimen/Enriqueta) and [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro).
+
 [view cheatsheet](https://...)
 
 ## cheat sheets for other processing modes and other useful resources
