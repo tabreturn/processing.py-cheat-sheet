@@ -17,6 +17,7 @@ Official processing.py reference: https://py.processing.org/reference
 
 * https://bmoren.github.io/p5js-cheat-sheet/
 * https://cdn.sparkfun.com/assets/6/3/f/e/3/Processing_Cheatsheet_Update.pdf
+* https://www.cs.bham.ac.uk/~cxp291/ri/processing_cheat_sheet_english.pdf
 
 ## Pages (work in progress)
 
