@@ -4,11 +4,13 @@
 
 **[Download cheatsheet (p.py_cc.pdf)](p.py_cc.pdf)**
 
+---
+
 Designed with [Scribus](https://www.scribus.net/) and [Inkscape](https://inkscape.org/)  
 Fonts: [DejaVu Sans](https://dejavu-fonts.github.io/), [Enriqueta](https://fonts.google.com/specimen/Enriqueta), [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)
 
-[![](img/page_1.png)](#)  
-[![](img/page_2.png)](#)
+[![](img/page_1.png)](p.py_cc.pdf)  
+[![](img/page_2.png)](p.py_cc.pdf)
 
 ## More Python Mode Resources
 
