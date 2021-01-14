@@ -28,10 +28,10 @@ Official processing.py reference: https://py.processing.org/reference
 
 - [ ] strings
 - [ ] slice notation
-- [ ] conditional statements 
-- [ ] iteration
-- [ ] random
-- [ ] frames
+- [*] conditional statements 
+- [*] iteration
+- [*] random
+- [*] frames
 - [ ] transformation
 - [ ] date & time
 - [ ] lists
@@ -42,5 +42,5 @@ Official processing.py reference: https://py.processing.org/reference
 - [ ] objects
 - [ ] vectors
 - [ ] interaction
-- [ ] constants
+- [*] constants
 
