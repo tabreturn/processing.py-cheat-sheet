@@ -12,11 +12,11 @@ Fonts: [DejaVu Sans](https://dejavu-fonts.github.io/), [Enriqueta](https://fonts
 
 ## More Python Mode Resources
 
+*Resources for teaching artists, designers, and architects to code*
+
 * https://github.com/villares/Resources-for-teaching-programming
 
-### More Cheat Sheets 
-
-*Java Mode Processing and p5:*
+*Java Mode Processing and p5 cheat sheets:*
 
 * https://bmoren.github.io/p5js-cheat-sheet/
 * https://cdn.sparkfun.com/assets/6/3/f/e/3/Processing_Cheatsheet_Update.pdf
