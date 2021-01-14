@@ -4,7 +4,9 @@
 
 **[Download cheatsheet (p.py_cc.pdf)](https://raw.githubusercontent.com/tabreturn/processing.py-cheat-sheet/master/p.py_cc.pdf)**
 
+*page 1*
 [![](img/page_1.png)](https://raw.githubusercontent.com/tabreturn/processing.py-cheat-sheet/master/p.py_cc.pdf)  
+*page 2*
 [![](img/page_2.png)](https://raw.githubusercontent.com/tabreturn/processing.py-cheat-sheet/master/p.py_cc.pdf)
 
 Designed with [Scribus](https://www.scribus.net/) and [Inkscape](https://inkscape.org/)  
