@@ -19,6 +19,10 @@ Official processing.py reference: https://py.processing.org/reference
 * https://cdn.sparkfun.com/assets/6/3/f/e/3/Processing_Cheatsheet_Update.pdf
 * https://www.cs.bham.ac.uk/~cxp291/ri/processing_cheat_sheet_english.pdf
 
+## Plain-old, Processing-less Python Cheat Sheet
+
+* https://github.com/ehmatthes/pcc/blob/master/cheat_sheets/beginners_python_cheat_sheet_pcc.pdf
+
 ## Pages (work in progress)
 
 ![](img/page_1.png)  
