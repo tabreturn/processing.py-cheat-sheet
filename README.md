@@ -28,7 +28,7 @@ A plain-old, Processing-less beginner Python cheat sheet:
 
 ## Potential Additions
 
-*Perhaps a simple 1- or 2-pager works best. Once the user outgrows this cheat sheet, the [official Python Mode reference](https://py.processing.org/reference) is probably more useful.*
+*Perhaps a simple 1- or 2-pager works best. Once the user outgrows this cheat sheet, the [official Python Mode reference](https://py.processing.org/reference) is probably more useful than a cheat sheet with several more pages.*
 
 - [ ] strings
 - [ ] slice notation
