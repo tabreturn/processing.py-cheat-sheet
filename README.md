@@ -2,7 +2,7 @@
 
 *A Processing Python Mode / Processing.py cheat sheet for beginners*
 
-**[Download cheatsheet (p.py_cc.pdf)](p.py_cc.pdf)**
+**[Download cheatsheet (p.py_cc.pdf)](https://raw.githubusercontent.com/tabreturn/processing.py-cheat-sheet/master/p.py_cc.pdf)**
 
 [![](img/page_1.png)](https://raw.githubusercontent.com/tabreturn/processing.py-cheat-sheet/master/p.py_cc.pdf)  
 [![](img/page_2.png)](https://raw.githubusercontent.com/tabreturn/processing.py-cheat-sheet/master/p.py_cc.pdf)
