@@ -7,16 +7,14 @@
 Designed with [Scribus](https://www.scribus.net/) and [Inkscape](https://inkscape.org/)  
 Fonts: [DejaVu Sans](https://dejavu-fonts.github.io/), [Enriqueta](https://fonts.google.com/specimen/Enriqueta), [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)
 
-## Pages (work in progress)
-
 ![](img/page_1.png)  
 ![](img/page_2.png)
 
-## Other Resources
+## More Python Mode Resources
 
 * https://github.com/villares/Resources-for-teaching-programming
 
-## Other Cheat Sheets 
+### More Cheat Sheets 
 
 *Java Mode Processing and p5:*
 
@@ -34,10 +32,10 @@ Fonts: [DejaVu Sans](https://dejavu-fonts.github.io/), [Enriqueta](https://fonts
 
 - [ ] strings
 - [ ] slice notation
-- [*] conditional statements 
-- [*] iteration
-- [*] random
-- [*] frames
+- [x] conditional statements 
+- [x] iteration
+- [x] random
+- [x] frames
 - [ ] transformation
 - [ ] date & time
 - [ ] lists
@@ -48,5 +46,5 @@ Fonts: [DejaVu Sans](https://dejavu-fonts.github.io/), [Enriqueta](https://fonts
 - [ ] objects
 - [ ] vectors
 - [ ] interaction
-- [*] constants
+- [x] constants
 
