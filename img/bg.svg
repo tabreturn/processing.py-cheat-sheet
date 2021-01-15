@@ -5,9 +5,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   width="3000"
-   height="753"
-   viewBox="0 0 793.75 199.23174"
+   width="2588"
+   height="99"
+   viewBox="0 0 684.74174 26.193915"
    version="1.1"
    id="svg18">
   <metadata
@@ -32,7 +32,7 @@
      class="B"
      id="g16"
      style="stroke:#d3e0e9;stroke-width:0.44736;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     transform="matrix(0.78857808,0,0,0.78857808,43.515922,111.67373)">
+     transform="matrix(0.78857808,0,0,0.78857808,44.04509,111.67373)">
     <path
        style="stroke:#d3e0e9;stroke-width:0.44736;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 223.71317,-141.4059 v 32.71629"
@@ -598,4 +598,11 @@
        d="m -54.846876,-141.40589 v 32.71628"
        id="path908-9" />
   </g>
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.352778;stop-color:#000000;stroke-opacity:0"
+     id="rect1285"
+     width="684.72144"
+     height="6.248569"
+     x="0.0082194041"
+     y="0.011944524" />
 </svg>
