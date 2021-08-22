@@ -2,7 +2,9 @@
 
 *A Processing Python Mode / Processing.py cheat sheet for beginners*
 
-**[Download cheatsheet (p.py_cc.pdf)](https://raw.githubusercontent.com/tabreturn/processing.py-cheat-sheet/master/p.py_cc.pdf)**
+**[Download Python Mode / Processing.py cheatsheet (p.py_cc.pdf)](https://raw.githubusercontent.com/tabreturn/processing.py-cheat-sheet/master/p.py_cc.pdf)**
+
+**[Download py5 cheatsheet (py5_cc.pdf)](https://raw.githubusercontent.com/tabreturn/processing.py-cheat-sheet/master/py5/p.py_cc.pdf)**
 
 *page 1*
 [![](img/page_1.png)](https://raw.githubusercontent.com/tabreturn/processing.py-cheat-sheet/master/p.py_cc.pdf)  
@@ -11,8 +13,6 @@
 
 Designed with [Scribus](https://www.scribus.net/) and [Inkscape](https://inkscape.org/)  
 Fonts: [DejaVu Sans](https://dejavu-fonts.github.io/), [Enriqueta](https://fonts.google.com/specimen/Enriqueta), [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)
-
-**[Download py5 version of the cheatsheet (py5_cc.pdf)](https://raw.githubusercontent.com/tabreturn/processing.py-cheat-sheet/master/py5/p.py_cc.pdf)**
 
 ## More Python Mode Resources
 
