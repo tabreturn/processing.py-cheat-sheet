@@ -4,7 +4,7 @@
 
 **[Download Python Mode / Processing.py cheatsheet (p.py_cc.pdf)](https://raw.githubusercontent.com/tabreturn/processing.py-cheat-sheet/master/p.py_cc.pdf)**
 
-**[Download py5 cheatsheet (py5_cc.pdf)](https://raw.githubusercontent.com/tabreturn/processing.py-cheat-sheet/master/py5/p.py_cc.pdf)**
+**[Download py5 cheatsheet (py5_cc.pdf)](https://raw.githubusercontent.com/tabreturn/processing.py-cheat-sheet/master/py5/py5_cc.pdf)**
 
 *page 1*
 [![](img/page_1.png)](https://raw.githubusercontent.com/tabreturn/processing.py-cheat-sheet/master/p.py_cc.pdf)  
