@@ -12,6 +12,8 @@
 Designed with [Scribus](https://www.scribus.net/) and [Inkscape](https://inkscape.org/)  
 Fonts: [DejaVu Sans](https://dejavu-fonts.github.io/), [Enriqueta](https://fonts.google.com/specimen/Enriqueta), [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)
 
+**[Download py5 version of the cheatsheet (py5_cc.pdf)](https://raw.githubusercontent.com/tabreturn/processing.py-cheat-sheet/master/py5/p.py_cc.pdf)**
+
 ## More Python Mode Resources
 
 Resources for teaching artists, designers, and architects to code:
